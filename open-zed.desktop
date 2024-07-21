@@ -1,0 +1,16 @@
+ [Desktop Entry]
+ Name = Open in Zed
+ Type=Service
+ ServiceTypes=KonqPopupMenu/Plugin
+ MimeType=inode/directory
+ X-KDE-Priority=TopLevel
+ Actions=open-in-zed;
+ 
+ [Desktop Action open-in-zed]
+ Name=Open in Zed
+ Name[nl]=Openen in Zed
+ Name[cs]=Otevřít ve Zed
+ Name[es]=Abrir en Zed
+ Name[pl]=Otwórz za pomocą Zed
+ Icon=zed
+ Exec=Zed %u
