@@ -13,4 +13,4 @@
  Name[es]=Abrir en Zed
  Name[pl]=Otwórz za pomocą Zed
  Icon=zed
- Exec=Zed %u
+ Exec=zeditor %u
